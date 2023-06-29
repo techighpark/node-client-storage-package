@@ -1,5 +1,5 @@
 {
-  "name": "@techigh/client-storage",
+  "name": "@techigh/web-storage-handler",
   "version": "0.0.2",
   "description": "Cookie, session, localStorage handler",
   "main": "index.js",
